@@ -1,6 +1,7 @@
 tensorflow
-scikit learn
+scikit-learn
 pandas
 keras
 numpy
 streamlit
+
